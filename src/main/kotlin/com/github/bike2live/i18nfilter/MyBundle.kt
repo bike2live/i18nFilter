@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.bike2live.i18nfilter
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

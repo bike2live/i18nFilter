@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bike2live.i18nfilter.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bike2live.i18nfilter.MyBundle
 
 class MyApplicationService {
 
